@@ -1,12 +1,14 @@
 # learn-markdown (Markdown 入门参考)
-====
+
+---
 
 [Code on Github](https://github.com/Heanes/learn-markdown.git)
 
 [在线阅读](http://study.heanes.com/learn-markdown/)
 
 ## 文档目录
-----
+
+---
 
 * [关于 Markdown](article/about/readme.md)
   - [第一个 Markdown 文档](article/about/helloworld.md)
@@ -51,7 +53,8 @@
   - [Word](article/convert/word.md)
 
 ## 参考资料
-----
+
+---
 
 1. [Project Markdown][project-markdown]
 2. [Markdown Syntax zh_TW][syntex-tw]
@@ -66,7 +69,8 @@
 [xbeta-markdown]: http://xbeta.org/wiki/show/Markdown "XBeta Wiki Markdown"
 
 ## 共享协议
-----
+
+---
 
 本文由 [Heanes][heanes] 整理并在 [CC BY-SA 3.0][CC] 协议下发布，主要为了给自己和各位朋友作为学习 Markdown 的入门及参考资料。
 
