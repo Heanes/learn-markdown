@@ -1,4 +1,4 @@
-# Learning-Markdown (Markdown 入门参考)
+# learn-markdown (Markdown 入门参考)
 ====
 
 [Code on Github](https://github.com/Heanes/learn-markdown.git)

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Heanes/Learning-Markdown.git"
+    "url": "git+https://github.com/Heanes/learn-markdown.git"
   },
   "keywords": [
     "markdown",
@@ -18,9 +18,9 @@
   "author": "Heanes",
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/Heanes/Learning-Markdown/issues"
+    "url": "https://github.com/Heanes/learn-markdown/issues"
   },
-  "homepage": "https://github.com/Heanes/Learning-Markdown#readme",
+  "homepage": "https://github.com/Heanes/learn-markdown#readme",
   "dependencies": {
     "gitbook-cli": "^2.3.2"
   }
