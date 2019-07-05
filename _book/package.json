@@ -1,0 +1,27 @@
+{
+  "name": "learning_markdown",
+  "version": "2.0.0",
+  "description": "Markdown guidance and reference（Markdown 入门参考）",
+  "main": "index.js",
+  "scripts": {
+    "server": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heanes/Learning-Markdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "reference"
+  ],
+  "author": "Heanes",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Heanes/Learning-Markdown/issues"
+  },
+  "homepage": "https://github.com/Heanes/Learning-Markdown#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
