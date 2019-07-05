@@ -2,7 +2,7 @@
 
 ---
 
-[Code on Github](https://github.com/Heanes/learn-markdown.git)
+本指南主要讲解markdown的书写技巧。
 
 [在线阅读](http://study.heanes.com/learn-markdown/)
 
@@ -72,10 +72,9 @@
 
 ---
 
-本文由 [Heanes][heanes] 整理并在 [CC BY-SA 3.0][CC] 协议下发布，主要为了给自己和各位朋友作为学习 Markdown 的入门及参考资料。
+本文由 Heanes 整理并在 [CC BY-SA 3.0][CC] 协议下发布，主要为了给自己和各位朋友作为学习 Markdown 的入门及参考资料。
 
 请各位遵循 [Markdown: License][license] 及其它参考文献的共享协议来使用、修改和发布。
 
-[heanes]: https://github.com/Heanes
 [CC]: http://zh.wikipedia.org/wiki/Wikipedia:CC "Wiki: CC"
 [license]: http://daringfireball.net/projects/markdown/license "Markdown: License"
